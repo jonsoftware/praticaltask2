@@ -1,0 +1,43 @@
+h1 {
+    background-color: #1a9f5f;
+    color:#ffffff
+    
+  }
+  
+  h2 {
+    background-color: #1a9f5f;
+    color:#ffffff
+  }
+  
+  h3 {
+    background-color: #1a9f5f;
+    color:#ffffff
+  }
+  
+  em {
+    background-color: #000000;
+    color: #ffffff;
+  }
+  #sumButton {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#sumButton:hover {
+    background-color: #45a049;
+}
+#answer {
+  font-weight: bold;
+  font-size: 18px;
+  color: blue;
+}
+
